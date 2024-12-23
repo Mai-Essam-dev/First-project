@@ -1,0 +1,25 @@
+$secondery-color:white;
+$font-size:16px;
+$primary-color:gray;
+$danger-btn:red;
+.caption{
+    background-color: $primary-color;
+    color: $secondery-color;
+    &-head{
+        font-size: 50px;
+    }
+}
+.btn{
+    border: 0px;
+    padding: 2% 4%;
+    color: $secondery-color;
+    font-size: $font-size;
+}
+.read-more{
+    @extend .btn;
+    background-color: $primary-color;
+}
+.read-less{
+    @extend .btn;
+    background-color: $danger-btn;
+}
