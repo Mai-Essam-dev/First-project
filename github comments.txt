@@ -1,0 +1,13 @@
+cmd 3la el file aft70 then cmd code. to open in visual studi and terminal
+git config --global user.name "[name]"
+git config --global user.email "maiessameldin63@gmail.com"
+git config user.name
+git init
+git add index.html OR git add .
+git status
+git commit  -m "init project"
+ git remote add origin https://github.com/Mai-Essam-dev/First-project.git
+git push origin master >> to dangerous
+untrack > unstage
+git branch > by3rfni ana wa2f fen aw b3ml wa7d gdyd
+git checkout -b main > by3ml branch gdyd
